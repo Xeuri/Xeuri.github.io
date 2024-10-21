@@ -1,0 +1,42 @@
+html {
+    font-family: "Monaco";
+    color: #c5c6c7;
+    background-color: #0B0C10;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: #66fcf1;
+    font-size: 50px;
+    padding: 20px 0;
+    background-color: #1f2833;
+    margin: 0 0 10px
+}
+
+h2 {
+    color: #45a29e;
+}
+
+p { 
+    text-align: center;
+    padding: 0 150px 20px 150px;
+}
+
+table, th, td {
+    table-layout: fixed;
+    width: 150px;
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th, td {
+    background-color: #485151;
+  }
+
+  ul {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
